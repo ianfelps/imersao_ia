@@ -1,4 +1,4 @@
-<h1>Projetos realizados na Imersão IA da Aluara com o Google</h1>
+<h1>Projetos realizados na Imersão IA da Alura com o Google</h1>
 
 <p>Projetos realizado utilizando a API do Google Gemini.</p>
 
